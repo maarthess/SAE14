@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:leap2="http://terms.leapspecs.org/"
+    xmlns:categories="http://wiki.leapspecs.org/2A/categories/"
+    xmlns:portfolio="https://eportfolio.u-pec.fr/export/leap/3608/1663937244/"
+    xmlns:mahara="http://wiki.mahara.org/Developer_Area/Import%2F%2FExport/LEAP_Extensions#"
+>
+    <leap2:version>http://www.leapspecs.org/2010-07/2A/</leap2:version>
+    <id>https://eportfolio.u-pec.fr/export/3608/1663937244</id>
+    <title>Mahara Leap2A Export for Marthe Soumahoro SYLVANIELO, 23/09/2022 14:47</title>
+    <updated>2022-09-23T14:02:24+02:00</updated>
+    <generator uri="https://mahara.org/" version="2008122400">Mahara</generator>
+    <author>
+        <name>Marthe Soumahoro SYLVANIELO</name>
+        <email>soumahoro.sylvanielo@etu.u-pec.fr</email>
+        <uri>portfolio:artefactinternal</uri>
+    </author>
+
+    <entry>
+        <title>Profile page</title>
+        <id>portfolio:view30965</id>
+
+        <updated>2022-09-23T14:02:10+02:00</updated>
+        <published>2022-09-22T14:02:38+02:00</published>
+
+        <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div>Your profile page is what others see when they click on your name or profile picture.</div></div></summary>
+
+   <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></subtitle>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_block_132767"><div class="bt-profileinfo gridstackblock card card-secondary card-regular clearfix" id="user_blockinstance_132767">
+    
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                About me
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_132767_target">
+        
+        
+            
+    
+    <div class="card-body flush">
+    
+    
+    
+    
+        <ul class="unstyled profile-info">
+        
+            <li><strong>Prénom:</strong> Marthe Soumahoro</li>
+        
+            <li><strong>Nom:</strong> SYLVANIELO</li>
+        
+            <li><strong>Identifiant étudiant:</strong> u32202065</li>
+        
+            <li><strong>Nom préféré:</strong> Marthe Sylvanielo</li>
+        
+        </ul>
+    
+    
+    
+    
+    </div>
+    
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_132769"><div class="bt-myfriends gridstackblock card card-secondary clearfix" id="user_blockinstance_132769">
+    
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Mes contacts
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_132769_target">
+        
+        
+            <div class="friends card-body">
+
+    <div id="user_userfriendstable">
+       <div class="js-masonry user-thumbnails">
+
+    
+        <a href="https://eportfolio.u-pec.fr/user/view.php?id=3619" class="item user-icon metadata user-icon-100 d0">
+            <img src="https://eportfolio.u-pec.fr/theme/raw/images/no_userphoto.png" alt="Image du profil de Coralie Bourdais--Hameau" height="100" />
+            </a><p class="member-name"><a href="https://eportfolio.u-pec.fr/user/view.php?id=3619" class="item user-icon metadata user-icon-100 d0">Coralie Bourdais--Hameau</a></p><a href="https://eportfolio.u-pec.fr/user/view.php?id=3619" class="item user-icon metadata user-icon-100 d0">
+        </a>
+    
+        <a href="https://eportfolio.u-pec.fr/user/view.php?id=3609" class="item user-icon metadata user-icon-100 d1">
+            <img src="https://eportfolio.u-pec.fr/theme/raw/images/no_userphoto.png" alt="Image du profil de Fatiha Al Sid Chikh" height="100" />
+            </a><p class="member-name"><a href="https://eportfolio.u-pec.fr/user/view.php?id=3609" class="item user-icon metadata user-icon-100 d1">Fatiha Al Sid Chikh</a></p><a href="https://eportfolio.u-pec.fr/user/view.php?id=3609" class="item user-icon metadata user-icon-100 d1">
+        </a>
+    
+        <a href="https://eportfolio.u-pec.fr/user/view.php?id=3623" class="item user-icon metadata user-icon-100 d0">
+            <img src="https://eportfolio.u-pec.fr/theme/raw/images/no_userphoto.png" alt="Image du profil de Hassan Boulouz" height="100" />
+            </a><p class="member-name"><a href="https://eportfolio.u-pec.fr/user/view.php?id=3623" class="item user-icon metadata user-icon-100 d0">Hassan Boulouz</a></p><a href="https://eportfolio.u-pec.fr/user/view.php?id=3623" class="item user-icon metadata user-icon-100 d0">
+        </a>
+    
+        <a href="https://eportfolio.u-pec.fr/user/view.php?id=3428" class="item user-icon metadata user-icon-100 d1">
+            <img src="https://eportfolio.u-pec.fr/theme/raw/images/no_userphoto.png" alt="Image du profil de Romayssa Merrir" height="100" />
+            </a><p class="member-name"><a href="https://eportfolio.u-pec.fr/user/view.php?id=3428" class="item user-icon metadata user-icon-100 d1">Romayssa Merrir</a></p><a href="https://eportfolio.u-pec.fr/user/view.php?id=3428" class="item user-icon metadata user-icon-100 d1">
+        </a>
+    
+
+</div>
+
+    </div>
+    <div id="user_myfriends_page_container" class="d-none">
+        
+    </div>
+    
+
+</div>
+
+        
+    </div>
+</div>
+</div><div id="user_block_132771"><div class="bt-myviews gridstackblock card card-secondary clearfix" id="user_blockinstance_132771">
+    
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Mes portfolios
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_132771_target">
+        
+        
+            
+    <div class="list-group">
+        <div id="user_myviewlist">
+            
+    <div class="list-group-item flush">
+        <h3 class="title list-group-item-heading text-inline">
+            <a href="https://eportfolio.u-pec.fr/view/view.php?id=31040">Première Page Mahara</a>
+        </h3>
+
+        
+
+        
+
+        
+    </div>
+
+
+        </div>
+    
+        <div id="user_myviews_page_container" class="d-none"><div id="user_myviews_pagination" class="pagination-wrapper center"><div class="lead text-small results float-right">1 résultat</div></div></div>
+    
+    
+    
+    
+    </div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_132770"><div class="bt-wall gridstackblock card card-secondary clearfix" id="user_blockinstance_132770">
+    
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Mur
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_132770_target">
+        
+        
+            
+<div class="form-group requiredmarkerdesc d-none">Les rubriques avec un « * » doivent être saisies.</div><div id="user_wallpost_132770_postsizelimit_container" class="metadata html form-group">Au maximum 1500 caractères par message.</div>
+<div id="user_wallpost_132770_text_container" class="html required wysiwyg form-group">Envoyer <span class="requiredmarker">*</span></div>
+<div id="user_wallpost_132770_private_container" class="switchbox form-group">Rendre votre message privé ?<div class="form-switch">
+    <div class="switch">
+        
+
+        
+            <span class="switch-inner"></span>
+            <span class="switch-indicator"></span>
+            <span class="state-label on">Oui</span>
+            <span class="state-label off">Non</span>
+        
+    </div>
+    
+</div>
+</div>
+<div id="user_wallpost_132770_submit_container" class="primary submit form-group"></div>
+
+
+
+
+
+
+<div id="user_wall" class="wall list-group list-group-lite list-group-top-border">
+    
+        <div class="card-body lead text-small text-center">Aucun message à afficher sur le mur</div>
+    
+    
+</div>
+
+    <a href="https://eportfolio.u-pec.fr/blocktype/wall/wall.php?id=132770" class="detail-link link-blocktype"><span class="icon icon-arrow-circle-right"></span> Voir tout le mur</a>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_132768"><div class="bt-mygroups gridstackblock card card-secondary clearfix" id="user_blockinstance_132768">
+    
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Mes groupes
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_132768_target">
+        
+        
+            
+    <div class="card-body">
+        <p class="no-results-small">Affilié à aucun groupe</p>
+    </div>
+
+
+        
+    </div>
+</div>
+</div></div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="leap2:has_part" href="portfolio:artefact86771"/>
+        <link rel="leap2:has_part" href="portfolio:artefact86772"/>
+        <link rel="leap2:has_part" href="portfolio:artefact86773"/>
+        <link rel="leap2:has_part" href="portfolio:artefact86774"/>
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:newlayout="1" mahara:type="profile" mahara:ownerformat="6">
+        
+            
+            <mahara:blockinstance mahara:blocktype="profileinfo" mahara:blocktitle="About me" mahara:positionx="0" mahara:positiony="0" mahara:height="1" mahara:width="6">
+                
+                    
+                    <mahara:fields>[[&quot;firstname&quot;,&quot;lastname&quot;,&quot;studentid&quot;,&quot;preferredname&quot;]]</mahara:fields>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="myfriends" mahara:blocktitle="" mahara:positionx="6" mahara:positiony="0" mahara:height="1" mahara:width="6">
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="myviews" mahara:blocktitle="" mahara:positionx="0" mahara:positiony="1" mahara:height="1" mahara:width="6">
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="wall" mahara:blocktitle="" mahara:positionx="6" mahara:positiony="1" mahara:height="1" mahara:width="6">
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="mygroups" mahara:blocktitle="" mahara:positionx="0" mahara:positiony="2" mahara:height="1" mahara:width="6">
+                
+                
+                
+            </mahara:blockinstance>
+            
+        
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>Dashboard page</title>
+        <id>portfolio:view30966</id>
+
+        <updated>2022-09-22T14:02:38+02:00</updated>
+        <published>2022-09-22T14:02:38+02:00</published>
+
+        <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></summary>
+
+   <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></subtitle>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_block_132775"><div class="bt-newviews gridstackblock card card-secondary clearfix" id="user_blockinstance_132775">
+    
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Portfolios partagés avec moi
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_132775_target">
+        
+        
+            
+<div class="list-group">
+    
+    <div class="list-group-item flush">
+        <h3 class="list-group-item-heading text-inline">
+            <a href="https://eportfolio.u-pec.fr/view/view.php?id=31039">Découverte de Mahara</a>
+        </h3>
+        <span class="text-small text-midtone"></span>
+        
+        <div class="groupuserdate text-small">
+            
+                
+                <a href="https://eportfolio.u-pec.fr/user/view.php?id=3609" class="text-link">
+                    Fatiha Al Sid Chikh
+                </a>
+            
+        
+            <span class="postedon text-midtone">
+                - 
+                    Mis à jour
+                
+                22 September 2022
+            </span>
+        </div>
+        
+        <div class="detail list-group-item-text text-small">
+            Mes premiers pas sur Mahara.
+        </div>
+        
+    </div>
+    
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_132773"><div class="bt-inbox gridstackblock card card-secondary clearfix" id="user_blockinstance_132773">
+    
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Boîte de réception
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_132773_target">
+        
+        
+            
+    <div id="user_inboxblock" class="inboxblock list-group">
+        
+        <div class="collapsible list-group-item flush-collapsible">
+            
+                <h3 class="title list-group-item-heading"><a class="collapsed link-block" href="#message_content_viewaccess_53475">
+                    
+                        <span class="icon icon-wrench text-default left"></span>
+                    
+                    <span class="sr-only">Nouveaux accès à une page</span>
+                    <span class="subject">Vous avez reçu l'accès à 1 portfolio par Fatiha...</span>
+                    <span class="icon icon-chevron-down collapse-indicator float-right"></span>
+                </a></h3>
+            
+            <div class="collapse" id="user_message_content_viewaccess_53475">
+                
+                    <p class="content-text">Vous avez reçus les droits suivants:<br /><br />Découverte de Mahara<br /><br /></p>
+                    
+                        <a href="https://eportfolio.u-pec.fr/view/view.php?id=31039" class="text-small">
+                            Portfolio <span class="icon icon-arrow-right mls icon-sm"></span>
+                        </a>
+                    
+                    
+                
+            </div>
+        </div>
+        
+        <div class="collapsible list-group-item flush-collapsible">
+            
+                <h3 class="title list-group-item-heading"><a class="collapsed link-block" href="#message_content_maharamessage_53450">
+                    
+                        <span class="icon icon-wrench text-default left"></span>
+                    
+                    <span class="sr-only">Messages système</span>
+                    <span class="subject">Nouvelle demande d'ajout à la iste des contacts</span>
+                    <span class="icon icon-chevron-down collapse-indicator float-right"></span>
+                </a></h3>
+            
+            <div class="collapse" id="user_message_content_maharamessage_53450">
+                
+                    <p class="content-text">Coralie Bourdais--Hameau vous demande de l'ajouter à votre liste de contacts. Vous pouvez accepter cette demande soit en cliquant sur le lien ci-dessous, soit en allant sur la page contenant la liste de vos contacts. La raison qui est accompagne cette demande est :<br />
+    Bonjour :3</p>
+                    
+                        <a href="user/view.php?id=3619" class="text-small">
+                            Demandes d'affiliation <span class="icon icon-arrow-right mls icon-sm"></span>
+                        </a>
+                    
+                    
+                
+            </div>
+        </div>
+        
+        <div class="collapsible list-group-item flush-collapsible">
+            
+                <h3 class="title list-group-item-heading"><a class="collapsed link-block" href="#message_content_maharamessage_53441">
+                    
+                        <span class="icon icon-wrench text-default left"></span>
+                    
+                    <span class="sr-only">Messages système</span>
+                    <span class="subject">Demande de rejoindre la liste de contacts acceptée</span>
+                    <span class="icon icon-chevron-down collapse-indicator float-right"></span>
+                </a></h3>
+            
+            <div class="collapse" id="user_message_content_maharamessage_53441">
+                
+                    <p class="content-text">Romayssa Merrir a accepté votre demande et a été ajouté à votre liste de contacts</p>
+                    
+                        <a href="user/view.php?id=3428" class="text-small">
+                            Plus... <span class="icon icon-arrow-right mls icon-sm"></span>
+                        </a>
+                    
+                    
+                
+            </div>
+        </div>
+        
+        <div class="collapsible list-group-item flush-collapsible">
+            
+                <h3 class="title list-group-item-heading"><a class="collapsed link-block" href="#message_content_maharamessage_53409">
+                    
+                        <span class="icon icon-wrench text-default left"></span>
+                    
+                    <span class="sr-only">Messages système</span>
+                    <span class="subject">Nouvelle demande d'ajout à la iste des contacts</span>
+                    <span class="icon icon-chevron-down collapse-indicator float-right"></span>
+                </a></h3>
+            
+            <div class="collapse" id="user_message_content_maharamessage_53409">
+                
+                    <p class="content-text">Hassan Boulouz vous demande de l'ajouter à votre liste de contacts. Vous pouvez accepter cette demande soit en cliquant sur le lien ci-dessous, soit en allant sur la page contenant la liste de vos contacts. La raison qui est accompagne cette demande est :<br />
+    Veux-tu être mon ami ? </p>
+                    
+                        <a href="user/view.php?id=3623" class="text-small">
+                            Demandes d'affiliation <span class="icon icon-arrow-right mls icon-sm"></span>
+                        </a>
+                    
+                    
+                
+            </div>
+        </div>
+        
+        <div class="collapsible list-group-item flush-collapsible">
+            
+                <h3 class="title list-group-item-heading"><a class="collapsed link-block" href="#message_content_maharamessage_53394">
+                    
+                        <span class="icon icon-wrench text-default left"></span>
+                    
+                    <span class="sr-only">Messages système</span>
+                    <span class="subject">Demande de rejoindre la liste de contacts acceptée</span>
+                    <span class="icon icon-chevron-down collapse-indicator float-right"></span>
+                </a></h3>
+            
+            <div class="collapse" id="user_message_content_maharamessage_53394">
+                
+                    <p class="content-text">Fatiha Al Sid Chikh a accepté votre demande et a été ajouté à votre liste de contacts</p>
+                    
+                        <a href="user/view.php?id=3609" class="text-small">
+                            Plus... <span class="icon icon-arrow-right mls icon-sm"></span>
+                        </a>
+                    
+                    
+                
+            </div>
+        </div>
+        
+    </div>
+    
+    <div class="artefact-detail-link">
+        <a class="link-blocktype last" href="https://eportfolio.u-pec.fr/module/multirecipientnotification/inbox.php?type=feedback,groupmessage,institutionmessage,maharamessage,usermessage,viewaccess,watchlist,wallpost">
+        <span class="icon icon-arrow-circle-right"></span>
+        Plus</a>
+    </div>
+    
+    
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_132774"><div class="bt-myviews gridstackblock card card-secondary clearfix" id="user_blockinstance_132774">
+    
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Mes portfolios
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_132774_target">
+        
+        
+            
+    <div class="list-group">
+        <div id="user_myviewlist">
+            
+    <div class="list-group-item flush">
+        <h3 class="title list-group-item-heading text-inline">
+            <a href="https://eportfolio.u-pec.fr/view/view.php?id=31040">Première Page Mahara</a>
+        </h3>
+
+        
+
+        
+
+        
+    </div>
+
+
+        </div>
+    
+        <div id="user_myviews_page_container" class="d-none"><div id="user_myviews_pagination" class="pagination-wrapper center"><div class="lead text-small results float-right">1 résultat</div></div></div>
+    
+    
+    
+    
+    </div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_132772"><div class="bt-inbox gridstackblock card card-secondary clearfix" id="user_blockinstance_132772">
+    
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Sujets que je suis
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_132772_target">
+        
+        
+            
+    <div class="card-body">
+        <p class="lead text-small">Pas de messages</p>
+    </div>
+
+
+        
+    </div>
+</div>
+</div></div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:newlayout="1" mahara:type="dashboard" mahara:ownerformat="6">
+        
+            
+            <mahara:blockinstance mahara:blocktype="newviews" mahara:blocktitle="" mahara:positionx="0" mahara:positiony="0" mahara:height="1" mahara:width="6">
+                
+                    
+                    <mahara:limit>[5]</mahara:limit>
+                    
+                
+                    
+                    <mahara:user>[1]</mahara:user>
+                    
+                
+                    
+                    <mahara:friend>[1]</mahara:friend>
+                    
+                
+                    
+                    <mahara:group>[1]</mahara:group>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="inbox" mahara:blocktitle="" mahara:positionx="6" mahara:positiony="0" mahara:height="1" mahara:width="6">
+                
+                    
+                    <mahara:feedback>[true]</mahara:feedback>
+                    
+                
+                    
+                    <mahara:groupmessage>[true]</mahara:groupmessage>
+                    
+                
+                    
+                    <mahara:institutionmessage>[true]</mahara:institutionmessage>
+                    
+                
+                    
+                    <mahara:maharamessage>[true]</mahara:maharamessage>
+                    
+                
+                    
+                    <mahara:usermessage>[true]</mahara:usermessage>
+                    
+                
+                    
+                    <mahara:viewaccess>[true]</mahara:viewaccess>
+                    
+                
+                    
+                    <mahara:watchlist>[true]</mahara:watchlist>
+                    
+                
+                    
+                    <mahara:maxitems>[&quot;5&quot;]</mahara:maxitems>
+                    
+                
+                    
+                    <mahara:wallpost>[true]</mahara:wallpost>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="myviews" mahara:blocktitle="" mahara:positionx="0" mahara:positiony="1" mahara:height="1" mahara:width="6">
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="inbox" mahara:blocktitle="" mahara:positionx="6" mahara:positiony="1" mahara:height="1" mahara:width="6">
+                
+                    
+                    <mahara:newpost>[true]</mahara:newpost>
+                    
+                
+                    
+                    <mahara:maxitems>[&quot;5&quot;]</mahara:maxitems>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+        
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>Première Page Mahara</title>
+        <id>portfolio:view31040</id>
+
+        <updated>2022-09-22T15:03:32+02:00</updated>
+        <published>2022-09-22T15:03:52+02:00</published>
+
+        <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></summary>
+
+   <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></subtitle>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_block_133063"><div class="bt-image gridstackblock card card-secondary clearfix" id="user_blockinstance_133063">
+    
+        <div class="block-header d-none">
+    
+        <a class="commentlink" href="#" title="">
+        
+            
+                <span class="icon icon-plus" title="Commentaires et les détails"></span>
+                Ajouter un commentaire
+                <span class="bh-margin-left icon icon-search-plus"></span>
+                Détails
+            
+        
+        </a>
+    
+</div>
+
+    
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Plaquette de ma Formation
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_133063_target">
+        
+        
+            <div class="imageblock card-body">
+    <div class="image">
+        
+        <a class="modal_link" href="#">
+            <img rel="leap2:has_part" href="portfolio:artefact87150" alt="visuel plaquette BUT RT.JPG" title="visuel plaquette BUT RT.JPG" />
+        </a>
+        
+    </div>
+
+    
+</div>
+
+        
+    </div>
+</div>
+</div><div id="user_block_133057"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_133057">
+    
+    
+        <div class="block-header quick-edit d-none">
+    <a class="modal_link list-group-heading" href="#" title="Édition rapide">
+        <span class="icon icon-pencil-alt" title="Édition rapide"></span>
+        Édition rapide
+    </a>
+</div>
+
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Présentation
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_133057_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Je m'appelle Marthe, je suis actuellement étudiante en première année BUT Réseaux et Télécommunications à l'UPEC sur le site de Vitry. Le parcours scolaire qui m'a menée à cette formation est mon baccalauréat Général avec pour spécialités Mathématiques et Numériques et Sciences Informatique.</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div></div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="leap2:has_part" href="portfolio:artefact87150"/>
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:newlayout="1" mahara:type="portfolio" mahara:ownerformat="6">
+        
+            
+            <mahara:blockinstance mahara:blocktype="image" mahara:blocktitle="Plaquette de ma Formation" mahara:positionx="2" mahara:positiony="0" mahara:height="39" mahara:width="3">
+                
+                    
+                    <mahara:artefactid>[&quot;portfolio:artefact87150&quot;]</mahara:artefactid>
+                    
+                
+                    
+                    <mahara:showdescription>[false]</mahara:showdescription>
+                    
+                
+                    
+                    <mahara:width>[&quot;&quot;]</mahara:width>
+                    
+                
+                    
+                    <mahara:retractable>[0]</mahara:retractable>
+                    
+                
+                    
+                    <mahara:retractedonload>[0]</mahara:retractedonload>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Présentation" mahara:positionx="5" mahara:positiony="0" mahara:height="34" mahara:width="4">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Je m&#039;appelle Marthe, je suis actuellement &amp;eacute;tudiante en premi&amp;egrave;re ann&amp;eacute;e BUT R&amp;eacute;seaux et T&amp;eacute;l&amp;eacute;communications &amp;agrave; l&#039;UPEC sur le site de Vitry. Le parcours scolaire qui m&#039;a men&amp;eacute;e &amp;agrave; cette formation est mon baccalaur&amp;eacute;at G&amp;eacute;n&amp;eacute;ral avec pour sp&amp;eacute;cialit&amp;eacute;s Math&amp;eacute;matiques et Num&amp;eacute;riques et Sciences Informatique.&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+        
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>Journal de Soumahoro Sylvanielo</title>
+        <id>portfolio:artefact86775</id>
+
+        <updated>2022-09-22T14:02:38+02:00</updated>
+        <published>2022-09-22T14:02:38+02:00</published>
+
+
+
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+        <mahara:artefactplugin mahara:type="blog" mahara:plugin="blog"/>
+
+
+        <category term="Blog" scheme="categories:selection_type#"/>
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Occupation</title>
+        <id>portfolio:artefact87090</id>
+
+        <updated>2022-09-22T14:02:16+02:00</updated>
+        <published>2022-09-22T14:02:16+02:00</published>
+
+
+
+
+        <content>Etudiante</content>
+        <rdf:type rdf:resource="leap2:entry"/>
+        <mahara:artefactplugin mahara:type="occupation" mahara:plugin="internal"/>
+
+
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Industry</title>
+        <id>portfolio:artefact87091</id>
+
+        <updated>2022-09-22T14:02:16+02:00</updated>
+        <published>2022-09-22T14:02:16+02:00</published>
+
+
+
+
+        <content>BUT Réseaux &amp;amp; Télécommunications</content>
+        <rdf:type rdf:resource="leap2:entry"/>
+        <mahara:artefactplugin mahara:type="industry" mahara:plugin="internal"/>
+
+
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Images de couverture</title>
+        <id>portfolio:artefact87124</id>
+
+        <updated>2022-09-22T15:03:52+02:00</updated>
+        <published>2022-09-22T15:03:52+02:00</published>
+
+
+
+
+        <content></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+        <mahara:artefactplugin mahara:type="folder" mahara:plugin="file"/>
+
+
+        <category term="Folder" scheme="categories:selection_type#"/>
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>visuel plaquette BUT RT.JPG</title>
+        <id>portfolio:artefact87150</id>
+
+        <updated>2022-09-22T15:03:16+02:00</updated>
+        <published>2022-09-22T15:03:16+02:00</published>
+
+
+
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></content>
+        <rdf:type rdf:resource="leap2:resource"/>
+        <mahara:artefactplugin mahara:type="image" mahara:plugin="file"/>
+        <link rel="enclosure" type="image/jpeg" href="export_info/files/87150-visuel plaquette BUT RT.JPG"/>
+        <link rel="leap2:is_part_of" href="portfolio:view31040"/>
+
+
+        <category term="Offline" scheme="categories:resource_type#" label="File"/>
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Marthe Sylvanielo</title>
+        <id>portfolio:artefactinternal</id>
+
+        <updated>2022-09-23T14:02:36+02:00</updated>
+
+
+
+
+
+        <content type="html">&lt;p&gt;Étudiante en première année de BUT Réseaux et Télécommunications à l&#039;UPEC. ;-)&lt;/p&gt;</content>
+        <rdf:type rdf:resource="leap2:person"/>
+        <mahara:artefactplugin mahara:type="internal" mahara:plugin="internal"/>
+
+
+        <category term="Self" scheme="categories:person_type#"/>
+
+
+
+
+
+
+        <leap2:persondata
+            mahara:artefactplugin="internal"
+            mahara:artefacttype="email"
+
+            leap2:field="email"
+
+            leap2:label="Adresse de courriel"
+
+        >soumahoro.sylvanielo@etu.u-pec.fr</leap2:persondata>
+
+        <leap2:persondata
+            mahara:artefactplugin="internal"
+            mahara:artefacttype="firstname"
+
+            leap2:field="legal_given_name"
+
+            leap2:label="Prénom"
+
+        >Marthe Soumahoro</leap2:persondata>
+
+        <leap2:persondata
+            mahara:artefactplugin="internal"
+            mahara:artefacttype="lastname"
+
+            leap2:field="legal_family_name"
+
+            leap2:label="Nom"
+
+        >SYLVANIELO</leap2:persondata>
+
+        <leap2:persondata
+            mahara:artefactplugin="internal"
+            mahara:artefacttype="mobilenumber"
+
+            leap2:field="mobile"
+
+            leap2:label="Téléphone mobile"
+
+        >07 83 62 27 04</leap2:persondata>
+
+        <leap2:persondata
+            mahara:artefactplugin="internal"
+            mahara:artefacttype="officialwebsite"
+
+            leap2:field="website"
+
+            leap2:label="Adresse web officielle"
+
+        >https://www.linkedin.com/in/soumahoro-marthe-sylvanielo-533277251/</leap2:persondata>
+
+        <leap2:persondata
+            mahara:artefactplugin="internal"
+            mahara:artefacttype="preferredname"
+
+            leap2:field="preferred_given_name"
+
+            leap2:label="Nom préféré"
+
+        >Marthe Sylvanielo</leap2:persondata>
+
+        <leap2:persondata
+            mahara:artefactplugin="internal"
+            mahara:artefacttype="studentid"
+
+            leap2:field="other"
+
+            leap2:label="Identifiant étudiant"
+
+        >u32202065</leap2:persondata>
+
+
+        <leap2:spatial>
+
+            <leap2:addressline mahara:artefacttype="address">1 Chemin de ma Forêt </leap2:addressline>
+
+            <leap2:addressline mahara:artefacttype="city">Ile - De - France</leap2:addressline>
+
+            <leap2:country mahara:artefacttype="country" leap2:countrycode="fra">France</leap2:country>
+
+            <leap2:addressline mahara:artefacttype="town">Boussy Saint Antoine 91800</leap2:addressline>
+
+        </leap2:spatial>
+
+    </entry>
+
+</feed>
